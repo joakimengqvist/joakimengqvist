@@ -1,4 +1,4 @@
-### Published NPM packages used in my own project but open for anyone to contribute to or use:
+### Published NPM packages used in my own projects but open for anyone to contribute to or use:
 
 #### Swedish bank account validation functions
 - https://www.npmjs.com/package/swedish-bank-account-validator
